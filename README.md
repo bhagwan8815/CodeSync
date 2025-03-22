@@ -15,15 +15,23 @@ Compile and run your Python code directly in the browser using our secure backen
 
 # 🛠️ Tech Stack
 Frontend:
+
 React.js
+
 Tailwind CSS
+
 Socket.io-client
 
 Backend:
+
 Node.js
+
 Express.js
+
 Socket.io
+
 Python (for code execution)
+
 OpenAI API (for AI code reviews).
 
 # 🚀 Features
@@ -46,20 +54,25 @@ OpenAI API (for AI code reviews).
     git clone https://github.com/bhagwan8815/CodeSync.git
 
     ```
+
 2. Start the Backend Server
+
  ```sh
    cd BackEnd
    npm install
-  npx nodemon
+   npx nodemon
 
-    ```
+ ```
+
 3. Start the Frontend Server
+
     ```sh
     cd Client
-npm install
-npm run start
+    npm install
+    npm run start
  
     ```
+
 
 ## Contributing
 
