@@ -30,7 +30,6 @@ Express.js
 
 Socket.io
 
-Python (for code execution)
 
 OpenAI API (for AI code reviews).
 
@@ -39,12 +38,11 @@ OpenAI API (for AI code reviews).
 
 🧑‍🤝‍🧑 Real-time collaborative code editing
 
-✅ Live code execution and output display
-
 🛡️ Secure code evaluation with isolated execution environment
 
 🏷️ Unique room IDs for private coding sessions.
 
+✅ Online Code Compiler for Language : JAVA , C++, JAVASCRIPT , PYTHON
 
 # How to Run Locally
 
