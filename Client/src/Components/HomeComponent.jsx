@@ -41,7 +41,7 @@ export default function HomeComponent() {
           </h1>
 
           <p className="text-lg  font-bold mt-5 animate-slideInBottom">
-            Our AI-powered code reviewer and real-time collaboration tool is
+            Our AI-powered Code Reviewer and Real-time collaboration tool is
             designed to enhance coding efficiency and teamwork. Whether you're
             working solo or collaborating with a team, our platform provides
             instant feedback, optimizations, and seamless real-time editing.
